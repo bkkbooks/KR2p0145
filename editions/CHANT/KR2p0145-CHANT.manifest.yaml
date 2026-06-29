@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR2p0145/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0145/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 晏子
+  identifiers:
+    krp: KR2p0145
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0145.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0145_001-CHANT.yaml, hash: 'sha256:d47ee0a65c42a3db0109152505b4befecf4143ee597346254de4e31774e7fd34'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0145_001-CHANT.markers.yaml, hash: 'sha256:da155813d72afc1b7151dc4aa425f9f146b1099711f8ff9ec5e7c99baeeb6116'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0145_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2736
+  label: 一
+  type: section
+  level: 1
+hash: sha256:a611e667be201867a5e0c0b0417cdda1bceea6140acd6cc39c8a8e97bbc67f98

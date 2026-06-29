@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR2p0145/v1
+canonical_location: https://kanripo.org/bkk/KR2p0145/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 晏子
+  identifiers:
+    krp: KR2p0145
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0145.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0145_001.yaml, hash: 'sha256:af4dd163e8cf32234d6e6b8a6f27e9701f2711efe17ac05fb9fb7a329d856cce'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0145_001.markers.yaml, hash: 'sha256:5d6cfef001a369676e4ecb4256f7378537b4106389405de52adbf3fb0c8d2646'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0145_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2736
+  label: 一
+  type: section
+  level: 1
+hash: sha256:e1f2014208b0164b6c88979f4eac745cdfdaec328c8990a67f337d068a5dd589
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
