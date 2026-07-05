@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0145_001.yaml, hash: 'sha256:af4dd163e8cf32234d6e6b8a6f27e9701f2711efe17ac05fb9fb7a329d856cce'}
+  - {seq: 1, filename: KR2p0145_001.yaml, hash: 'sha256:d47ee0a65c42a3db0109152505b4befecf4143ee597346254de4e31774e7fd34'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0145_001.markers.yaml, hash: 'sha256:5d6cfef001a369676e4ecb4256f7378537b4106389405de52adbf3fb0c8d2646'}
+  - {seq: 1, role: markers, filename: assets/KR2p0145_001.markers.yaml, hash: 'sha256:fb881f685f73ae3559d8bce2325c2361ad6b7fff4dbf335f82c5eefda0878cee'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 一
   type: section
   level: 1
-hash: sha256:e1f2014208b0164b6c88979f4eac745cdfdaec328c8990a67f337d068a5dd589
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1ccec0809d085b38fc86828ae667c45fa97a193e6e93f068b320e87040cf8461
